@@ -1,1 +1,60 @@
-# anu
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Fruits</title>
+<style>
+    img {
+        width:100px;
+        border-radius:10px;
+    }
+    
+
+    </style>
+     
+
+                   
+
+</head>
+<body>
+    <img src="images.jpg">
+    <p>Apple</p>
+    <p>
+        Apples contain antioxidants, vitamins, dietary fiber, and a range of other nutrients. Due to their varied nutrient content, apples can be a healthful component of a balanced diet.
+Apples come in a variety of shapes, colors, and flavors. They provide a range of nutrients that can benefit many aspects of a person’s health.
+Eating a diet rich in a variety of fruits and vegetables, including apples, may help reduce the risk of several conditions, such as:
+1.cancer
+2.obesity
+3.heart disease
+4.diabetes
+    </p>
+    <img src="banana.jpg">
+    <p>Banana</p>
+    <p>
+        Banana is the second most important fruit crop of India next to mango. 
+        It is available round the year and because of its taste, nutritive and medicinal value. 
+        It is favorite fruit of all classes of people. It is a rich source of carbohydrate and
+         vitamins particularly vitamin B. Banana helps to reduce the risk of heart diseases. 
+         Also, it is recommended for patients suffering from high arthritis, blood pressure, ulcer, 
+         gastroenteritis and kidney disorders. From banana, various products are made such as chips, 
+         banana puree, jam, jelly, juice, etc. Banana fibre is used to make items like bags, pots and 
+         wall hangers. Rope and good quality paper can be prepared from banana waste. In India, banana
+          ranks first in production and third in the area among fruit crops.
+    </p>
+    <img src="grapes.jpg">
+    <p>Grapes</p>
+    <p>
+        Grapes are a rich source of antioxidants. They may help boost heart health, prevent cancer, 
+        manage blood pressure, and protect the eyes, among other benefits. 
+       Up to 8,000 years ago, people first cultivated grape vines in what is now the Middle East.  
+       Grapes and grape products include red, green, and purple grapes, seedless grapes, grape jelly, 
+       grape jam and grape juice, raisins, currents, sultanas, and wine.
+       Today, 72 million tons of grapes are grown each year worldwide, mostly to produce wine. 
+       Every year, 7.2 trillion gallons of wine are produced. Grapes are also a popular finger food.
+
+    </p>
+    
+
+
+
+</body>
+</html>
